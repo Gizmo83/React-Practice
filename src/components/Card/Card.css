@@ -1,0 +1,21 @@
+.people-container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.card {
+    width: 18rem;
+    margin: auto;
+    margin-top: 20px;
+}
+
+button {
+    float: left;
+    border: none;
+    background: none;
+}
+
+.fas {
+    color: red;
+}
